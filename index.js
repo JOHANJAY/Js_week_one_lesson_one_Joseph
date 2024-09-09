@@ -33,7 +33,7 @@ console.log(divide.toFixed());
 console.log(modulus);
 
  */
-//FIXME: Reme to work on task three
+
 //Task Three
 /* let isTrue = true
 let isFalse = false
